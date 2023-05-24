@@ -1,0 +1,10 @@
+
+/* logo */
+/* img[alt='logo']  another way of targing */
+#logo{
+    width: 3rem !important; 
+}
+/* body */
+body{
+    text-align: center;
+}
